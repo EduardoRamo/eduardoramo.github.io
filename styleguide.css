@@ -1,0 +1,140 @@
+body {
+    font-family: 'Maven Pro', sans-serif;
+    background-color: rgb(218, 218, 215);
+    }
+
+h1 {
+    display: block;
+    font-size: 4em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    }
+
+.container {
+    border: 8px solid #000;
+    padding: 20px;
+    margin: 10px auto;
+    }
+
+h2 {
+    display: block;
+    font-size: 3em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    }
+
+.color-container {
+    width: 100%;
+    }
+
+.mint-green {
+    background-color: #33ff7d;
+    color: #fff;
+    }
+
+.color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+    }
+
+.purple {
+    background-color: #b50fea;
+    color: #fff;
+    }
+
+
+.white {
+    background-color: #fff;
+    color: #000;
+    }
+
+.aqua {
+    background-color: #33fff9;
+    color: #fff;
+    }
+
+.magenta {
+    background-color: #ff33c4;
+    color: #fff;
+    }
+
+.black {
+    background-color: #000;
+    color: #fff;
+    }
+
+.font-container {
+    width: 100%;
+    }
+
+.font-panel {
+    width: 45%;
+    display: inline-block;
+    }
+
+.font-label {
+    font-size: 35px;
+    text-decoration: underline;
+    }
+
+.maven-pro {
+    font-family: 'Maven Pro', Arial, Helvetica, sans-serif;
+    }
+
+.regular {
+    font-style: normal;
+    font-size: 25px;
+    }
+
+.bold {
+    font-weight: 900;
+    font-size: 25px;
+    }
+
+.italic {
+    font-style: italic;
+    font-size: 25px;
+    }
+
+.roboto {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    }
+
+.noto-sans-japanese {
+    font-family: 'Noto Sans JP', Arial, Helvetica, sans-serif;
+    }
+
+.belanosima {
+    font-family: 'Belanosima', Arial, Helvetica, sans-serif;
+    }
+
+.rubik {
+    font-family: 'Rubik', Arial, Helvetica, sans-serif;
+    }
+
+.text-panel h1 {
+    font-weight: 900;
+    font-size: 52px;
+    font-family: 'Rubik', sans-serif;
+    }
+
+.text-panel h2 {
+    font-weight: 700;
+    font-size: 32px;
+    font-family: 'Maven Pro', sans-serif;
+    }
+
+.text-panel p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Maven Pro', sans-serif;
+    }
